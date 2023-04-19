@@ -10,8 +10,8 @@ Song Analysis Mini-Project for SC1015 (Introduction to Data Science and Artifici
 
 ## Contributors
 
--@De-Zato
--Jain Yash
+- @De-Zato
+- @YashJain14
 
 ## Problem Definition
 
