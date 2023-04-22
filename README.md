@@ -10,8 +10,8 @@ Song Analysis Mini-Project for SC1015 (Introduction to Data Science and Artifici
 
 ## Contributors
 
-- @De-Zato
-- @YashJain14
+- @De-Zato - Data Extraction, Data Visualisation
+- @YashJain14 - Machine Learning Models
 
 ## Problem Definition
 
