@@ -6,7 +6,7 @@ Song Analysis Mini-Project for SC1015 (Introduction to Data Science and Artifici
 
 1. [Data Extraction](https://github.com/De-Zato/song-analysis/blob/main/data-extraction.ipynb)
 2. [Data Visualisation](https://github.com/De-Zato/song-analysis/blob/main/data-visualisation.ipynb)
-3.
+3. [Machine Learning Models](https://github.com/De-Zato/song-analysis/blob/main/MachineLearning.ipynb)
 
 ## Contributors
 
