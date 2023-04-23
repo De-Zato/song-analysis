@@ -1,8 +1,7 @@
-# song-analysis
+# Song Analysis Mini-Project (SC1015: Introduction to Data Science and Artificial Intelligence)
+This mini-project focuses on analyzing songs and tracks from a database retrieved using the Spotify API. The goal is to explore the data, clean and preprocess it, and develop machine learning models to predict song popularity based on various features.
 
-## About
-
-Song Analysis Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on songs and tracks from a database that was retrieve by the Spotify API. Please view the source code in order from:
+Please view the source code in following order:
 
 1. [Data Extraction](https://github.com/De-Zato/song-analysis/blob/main/data-extraction.ipynb)
 2. [Data Visualisation](https://github.com/De-Zato/song-analysis/blob/main/data-visualisation.ipynb)
