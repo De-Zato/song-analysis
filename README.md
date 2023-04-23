@@ -10,7 +10,7 @@ Song Analysis Mini-Project for SC1015 (Introduction to Data Science and Artifici
 
 ## Contributors
 - @De-Zato - Data Extraction, Data Visualisation
-- @YashJain14 - Machine Learning Models
+- @YashJain14 - Machine Learning Models, README
 
 ## Problem Definition
 - Are we able to predict if a song/track will be popular based on its attributs?
@@ -29,7 +29,7 @@ Song Analysis Mini-Project for SC1015 (Introduction to Data Science and Artifici
 On the other hand, the categorical features such as key and mode appear to have similar relationships with popularity, indicating that they may not have a significant impact on predicting song popularity.
 However, our analysis does suggest that songs released in later years and songs with explicit language tend to be more popular among listeners.
 
-- We can conclude that the Random Forest Classifier is the best fit for predicting the popularity of songs. The Random Forest Classifier is able to model complex interactions between different features, which is important given the potential non-linear relationships between the features and popularity in this dataset. Furthermore, the Random Forest Classifier achieved the highest accuracy of 78% and AUC of 64.2% among the evaluated machine learning models. The AUC value indicates that the Random Forest Classifier has good performance in distinguishing between positive and negative classes in the binary classification problem.
+- We can conclude that the Random Forest Classifier is the best fit for predicting the popularity of songs. The Random Forest Classifier is able to model complex interactions between different features, which is important given the non-linear relationships between the features and popularity in this dataset. Furthermore, the Random Forest Classifier achieved the highest accuracy of 78% and AUC of 64.2% among the evaluated machine learning models. The AUC value indicates that the Random Forest Classifier has good performance in distinguishing between positive and negative classes in the binary classification problem.
 
 ## What we learned
 Throughout the data science project, we learned a number of important skills and techniques related to understanding the data, cleaning and preprocessing the data, and selecting and evaluating machine learning models.
