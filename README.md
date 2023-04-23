@@ -12,7 +12,7 @@ Please view the source code in following order:
 - @YashJain14 - Machine Learning Models, README
 
 ## Problem Definition
-- Are we able to predict if a song/track will be popular based on its attributs?
+- Are we able to predict if a song/track will be popular based on its attributes?
 - Which model would be the best to show and predict it?
 
 ## Models Used
