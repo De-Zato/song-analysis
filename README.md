@@ -41,3 +41,5 @@ Next, we learned how to select and evaluate the performance of various machine l
 
 ## References
 Dataset: https://www.kaggle.com/datasets/yamaerenay/spotify-dataset-19212020-600k-tracks
+https://www.musicbusinessworldwide.com/nearly-40000-tracks-are-now-being-added-to-spotify-every-single-day/
+
